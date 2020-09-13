@@ -28,6 +28,12 @@ ReactDOM.render(
       email="jack@nowhere.com"
     />
 
+    <Card 
+       name="Prathamesh"
+       tel="+88501684681"
+       email="pg@gmail.com"
+    />
+
     <input name="fname" />
   </div>,
   document.getElementById("root")
